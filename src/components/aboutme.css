@@ -1,0 +1,15 @@
+.graphimg{
+    height: 400px;
+    width: 400px;
+}
+.body{
+    padding: 2.5%;
+    font-size: medium;
+
+}
+.center{
+    text-align: center;
+}
+.pad{
+    padding: 1%;
+}

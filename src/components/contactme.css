@@ -1,0 +1,19 @@
+.content{
+    display: grid;
+    justify-content: center ;
+    font-size: larger;
+    padding: 10%;
+    font-size: large;
+}
+.gap{
+    padding-top: 30%;
+}
+.gap1{
+    padding-top: 20%;
+}
+.bg{
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    color: silver;
+}

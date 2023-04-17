@@ -1,0 +1,31 @@
+.bg{
+    background-color: black;
+    height: 690px;
+    width: 100%;
+}
+.centered {
+    color: #A3AAAE;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .container {
+  position: relative;
+  text-align: center;
+  color: white;
+  font-size: 50px;
+}
+
+@media screen and (min-width: 601px) {
+  .centered {
+    font-size: 35px;
+  }
+}
+
+/* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
+@media screen and (max-width: 600px) {
+  .centered {
+    font-size: 150px;
+  }
+}
